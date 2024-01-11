@@ -1,0 +1,14 @@
+D:\code\c sharp\SimpleRPG\bin\Debug\net8.0\SimpleRPG.exe
+D:\code\c sharp\SimpleRPG\bin\Debug\net8.0\SimpleRPG.deps.json
+D:\code\c sharp\SimpleRPG\bin\Debug\net8.0\SimpleRPG.runtimeconfig.json
+D:\code\c sharp\SimpleRPG\bin\Debug\net8.0\SimpleRPG.dll
+D:\code\c sharp\SimpleRPG\bin\Debug\net8.0\SimpleRPG.pdb
+D:\code\c sharp\SimpleRPG\obj\Debug\net8.0\SimpleRPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\c sharp\SimpleRPG\obj\Debug\net8.0\SimpleRPG.AssemblyInfoInputs.cache
+D:\code\c sharp\SimpleRPG\obj\Debug\net8.0\SimpleRPG.AssemblyInfo.cs
+D:\code\c sharp\SimpleRPG\obj\Debug\net8.0\SimpleRPG.csproj.CoreCompileInputs.cache
+D:\code\c sharp\SimpleRPG\obj\Debug\net8.0\SimpleRPG.dll
+D:\code\c sharp\SimpleRPG\obj\Debug\net8.0\refint\SimpleRPG.dll
+D:\code\c sharp\SimpleRPG\obj\Debug\net8.0\SimpleRPG.pdb
+D:\code\c sharp\SimpleRPG\obj\Debug\net8.0\SimpleRPG.genruntimeconfig.cache
+D:\code\c sharp\SimpleRPG\obj\Debug\net8.0\ref\SimpleRPG.dll
